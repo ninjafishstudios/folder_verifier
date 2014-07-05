@@ -20,7 +20,6 @@ Commands
   folder_verifier help [COMMAND]  # Describe available commands or one specific command
   folder_verifier print PATH      # Prints a representation of folder directory.
   folder_verifier verify PATH     # Verifies folder at given path.
-
 ~~~ 
 
 
